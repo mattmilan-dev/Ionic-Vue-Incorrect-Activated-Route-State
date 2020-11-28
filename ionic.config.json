@@ -1,0 +1,7 @@
+{
+  "name": "IonicVueRouteBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
